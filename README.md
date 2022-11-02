@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/112281941/199516910-a2c13cd3-b328-4e98-993e-2ab512464cc3.png)
 
-<h1 align="center">Welcome. I'm Carter Pierre</h1>
+<!-- <h1 align="center">Welcome. I'm Carter Pierre</h1> -->
 <h3 align="center">A passinate everlearning Software Engineer from Boston</h3>
 <img align="right" alt="Image" width="400" src="https://i.pinimg.com/originals/32/6e/7a/326e7a27648bdf825c3c39a0bd17c4d6.gif">
 
