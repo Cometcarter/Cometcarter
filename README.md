@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript & Horror Movies**
 
-- 📫 How to reach me **cartersp@gmail.com**
+- 📫 How to reach me **carterspierre@gmail.com**
 
 - ⚡ Fun fact about me **I manage my frustrations by figure skating**
 
